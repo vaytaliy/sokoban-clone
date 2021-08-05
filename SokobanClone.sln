@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SokobanClone", "SokobanClone\SokobanClone.csproj", "{D6F83745-7BB6-4114-8300-77EEEC9F2437}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SokobanClone", "SokobanClone\SokobanClone.csproj", "{D6F83745-7BB6-4114-8300-77EEEC9F2437}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitTestProject", "NUnitTestProject\NUnitTestProject.csproj", "{B61D6E7E-5775-4F96-B18D-A4FAA95BF8A3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{D6F83745-7BB6-4114-8300-77EEEC9F2437}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6F83745-7BB6-4114-8300-77EEEC9F2437}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6F83745-7BB6-4114-8300-77EEEC9F2437}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B61D6E7E-5775-4F96-B18D-A4FAA95BF8A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B61D6E7E-5775-4F96-B18D-A4FAA95BF8A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B61D6E7E-5775-4F96-B18D-A4FAA95BF8A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B61D6E7E-5775-4F96-B18D-A4FAA95BF8A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
